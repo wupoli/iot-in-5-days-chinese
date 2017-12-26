@@ -2,7 +2,7 @@
 　　本书翻译自开源书籍 《[IoT In five days](https://github.com/marcozennaro/IPv6-WSN-book)》。
 
 # 简介
-　　让你轻松入门 IPv6、IoT ！
+　　让你轻松入门 IoT ！
 
 　　Contiki官方推荐书籍！
 
